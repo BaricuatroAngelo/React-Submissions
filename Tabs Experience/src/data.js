@@ -4,7 +4,7 @@ const menu = [
       title: 'buttermilk pancakes',
       category: 'breakfast',
       price: 15.99,
-      img: '.pancake.jpeg',
+      img: '.pancake.jpg',
       desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
     },
     {
@@ -36,7 +36,7 @@ const menu = [
       title: 'egg attack',
       category: 'lunch',
       price: 22.99,
-      img: '.images/item-5.jpeg',
+      img: '.images/eggattack.png',
       desc: `franzen vegan pabst bicycle rights kickstarter pinterest meditation farm-to-table 90's pop-up `,
     },
     {
@@ -49,18 +49,18 @@ const menu = [
     },
     {
       id: 7,
-      title: 'bacon overflow',
+      title: 'Redemption Burger',
       category: 'breakfast',
       price: 8.99,
-      img: './images/item-7.jpeg',
+      img: './images/burger.jpeg',
       desc: `carry jianbing normcore freegan. Viral single-origin coffee live-edge, pork belly cloud bread iceland put a bird `,
     },
     {
       id: 8,
-      title: 'american classic',
+      title: 'Funky Fries',
       category: 'lunch',
       price: 12.99,
-      img: './images/item-8.jpeg',
+      img: './images/fries.jpg',
       desc: `on it tumblr kickstarter thundercats migas everyday carry squid palo santo leggings. Food truck truffaut  `,
     },
     {
